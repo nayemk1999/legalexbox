@@ -49,3 +49,6 @@ a {
   border-radius: 21px;
   top: 40px;
 }
+.ourServicesBG{
+  background: transparent linear-gradient(180deg,#0c1126 0%,#0C11267C 42%,#0C112600 100%) 0% 0% no-repeat padding-box;
+}
