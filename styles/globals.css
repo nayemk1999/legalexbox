@@ -27,3 +27,20 @@ a {
     background: black;
   }
 }
+
+.secondSection {
+  position: relative;
+}
+.secondSection::before {
+  content: "";
+  border-radius: 21px;
+  background: transparent
+    linear-gradient(67deg, rgba(18, 29, 48, 0) 0%, #0f1f36 62%, #606874 100%) 0%
+    0% no-repeat padding-box;
+  opacity: 0.35;
+  top: 40px;
+  bottom: 40px;
+  width: 100%;
+  left: 0;
+  position: absolute;
+}
