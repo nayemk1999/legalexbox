@@ -18,7 +18,7 @@ const SecondSection = () => {
           Website Design, Branding Design, Mobile-Friendly Websites, Logo
           Design, Complete Website Control.
         </p>
-        <button className="bg-[#4E89E1] mt-16 rounded-md px-8 py-3 text-white font-semibold">
+        <button className="bg-[#4E89E1] mt-16 rounded-md px-12 py-3 text-white font-semibold">
           LEARN MORE
         </button>
       </div>
